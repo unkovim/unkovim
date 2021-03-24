@@ -1,0 +1,7 @@
+{
+  "name": "unkovim",
+  "version": "1.0.0",
+  "description": "Rampage unko game using vim keybinds",
+  "main": "index.js",
+  "license": "MIT"
+}
